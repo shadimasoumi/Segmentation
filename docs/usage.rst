@@ -6,11 +6,11 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use the function, we need **MATLAB Bioinformatics Toolbox**:
 
-.. code-block:: console
+%.. code-block:: console
 
-   (.venv) $ pip install lumache
+
 
 Creating recipes
 ----------------
