@@ -8,5 +8,5 @@ There are many ways to calculate the cost of each node, as long as the feature t
 
 The weights between two nodes are calculated based on intensity gradients as follows:
 :math:`w_{ab}= 2- (g_{a}+g_{b})+w_{min}`
-If :math:`\sigma_{1}` equals :math:`\sigma_{2}` then etc, etc.
+
 
