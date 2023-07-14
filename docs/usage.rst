@@ -8,7 +8,7 @@ Requirements
 
 To use the function, we need **MATLAB Bioinformatics Toolbox**:
 
-and also, ``mat2tiles`` function is also needed
+and also, ``mat2tiles`` function is needed
 
 .. code-block:: console
 
@@ -16,9 +16,11 @@ and also, ``mat2tiles`` function is also needed
 
 
 
-The ``Int`` parameter should be ``"x"``, Otherwise, :py:func:`segmentation`
-will raise an exception.
+The ``Int`` is an image ``"innerSheath", "outerSheath" and "lens"``, should be defined, otherwise, py:func:`segmentation`
+will raise an error.
 
-For example:
+For example: 
+
+function [mask, IndexInnerSheath,IndexOuterSheath,IndexBallLens] = SegmentationGraphTheoryLowProfile2023(Int,innerSheath,outerSheath,lens)
 
 
