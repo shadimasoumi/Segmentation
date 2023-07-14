@@ -16,8 +16,3 @@ Contents
 
    usage
    graphTheory
-
-
-
-
-
