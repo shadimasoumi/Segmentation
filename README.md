@@ -1,3 +1,3 @@
 # Segmentation
 
-simple tool to segments layered structures.
+A MATLAB function to segment layered structures.
