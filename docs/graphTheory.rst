@@ -5,3 +5,8 @@ In short, the graph theory used here is based on finding the shortest path betwe
 
 There are many ways to calculate the cost of each node, as long as the feature to be segmented has characteristics unique to its surroundings, low weights can be assigned to the borders of that feature to distinguish it from the rest of the image.
 
+
+The weights between two nodes are calculated based on intensity gradients as follows:
+:math:`wab= 2- (ga+gb)+wmin`
+If :math:`\sigma_{1}` equals :math:`\sigma_{2}` then etc, etc.
+
