@@ -16,3 +16,27 @@ Contents
 
    usage
    graphTheory
+
+
+Tests:
+------
+
+.. _test-data:
+
+Test Data
+^^^^^^^^^
+This is the test data module
+
+.. automodule:: test_data
+
+:mod:`test_data` is a really cool module
+
+.. _ClassInheritHandle:
+
+A Handle Class
+++++++++++++++
+Should show inheritance and members.
+
+.. autoclass:: ClassInheritHandle
+    :show-inheritance:
+    :members:
