@@ -16,7 +16,7 @@ and also, ``mat2tiles`` function is also needed
 
 
 
-The ``Int`` parameter should be ``"x"``, Otherwise, :mat:func:`segmentation`
+The ``Int`` parameter should be ``"x"``, Otherwise, :py:func:`segmentation`
 will raise an exception.
 
 For example:
