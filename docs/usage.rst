@@ -20,6 +20,5 @@ The ``Int`` is an image ``"innerSheath", "outerSheath" and "lens"``, should be d
 will raise an error.
 
 For example: 
-....................
 
 
