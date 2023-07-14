@@ -20,7 +20,6 @@ The ``Int`` is an image ``"innerSheath", "outerSheath" and "lens"``, should be d
 will raise an error.
 
 For example: 
-
-function [mask, IndexInnerSheath,IndexOuterSheath,IndexBallLens] = SegmentationGraphTheoryLowProfile2023(Int,innerSheath,outerSheath,lens)
+....................
 
 
