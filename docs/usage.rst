@@ -8,7 +8,7 @@ Installation
 
 To use the function, we need **MATLAB Bioinformatics Toolbox**:
 
-(*.. code-block:: console*)
+.. code-block:: console
 
 
 
