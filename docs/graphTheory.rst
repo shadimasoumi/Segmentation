@@ -18,4 +18,3 @@ The  Roiz selection process is shown here:
 
 .. image:: roizSelection.jpg
 
-![class](https://github.com/shadimasoumi/Segmentation/blob/main/README.assets/roizSelection.jpg)
