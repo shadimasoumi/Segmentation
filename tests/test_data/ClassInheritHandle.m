@@ -1,4 +1,4 @@
-classdef MyHandleClass < handle & my.super.Class
+classdef ClassInheritHandle < handle & my.super.Class
     % a handle class
     %
     % :param x: a variable
@@ -6,23 +6,19 @@ classdef MyHandleClass < handle & my.super.Class
     %% some comments
     properties
         x % a property
-
-        % Multiple lines before a
-        % property can also be used
-        y
     end
     methods
-        function h = MyHandleClass(x)
+        function h = ClassInheritHandle(x)
             h.x = x
         end
         function x = get.x(obj)
-        % how is this displayed?
+        % Returns property x
             x = obj.x
         end
     end
     methods (Static)
-        function w = my_static_function(z)
-        % A static function in :class:`MyHandleClass`.
+        function w = a_static_function(z)
+        % A static function in :class:`ClassInheritHandle`.
         %
         % :param z: input z
         % :returns: w
