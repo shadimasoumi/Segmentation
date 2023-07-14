@@ -15,4 +15,4 @@ The weights between two nodes are calculated based on intensity gradients as fol
 
 The  Roiz selection process is shown here:
 
-![class](README.assets/roizSelection.jpg)
+![class](https://github.com/shadimasoumi/Segmentation/blob/main/README.assets/roizSelection.jpg?raw=true)
