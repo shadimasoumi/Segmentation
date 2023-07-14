@@ -3,8 +3,7 @@ Welcome to segmentation's documentation!
 
 **segmentation**  is a MATLAB function that segments layered structures using "Graph Theory"
 
-Check out the :doc:`usage` section for further information, including
-explanantuon on :ref:`graph theory`.
+Check out the :doc:`usage` section for further information and :doc:`graphTheory`.
 
 .. note::
 
@@ -16,3 +15,4 @@ Contents
 .. toctree::
 
    usage
+   graphTheory
