@@ -15,6 +15,4 @@ The weights between two nodes are calculated based on intensity gradients as fol
 
 The  Roiz selection process is shown here:
 
-![class](https://github.com/DCC-Lab/RayTracing/raw/master/README.assets/hierarchy.png)
-
-
+![class](README.assets/roizSelection.jpg)
