@@ -7,6 +7,15 @@ There are many ways to calculate the cost of each node, as long as the feature t
 
 
 The weights between two nodes are calculated based on intensity gradients as follows:
+
+
+
 :math:`w_{ab}= 2- (g_{a}+g_{b})+w_{min}`
 
 
+The  Roiz selection process is shown here:
+
+
+.. image:: roizSelection.jpg
+
+![class](https://github.com/shadimasoumi/Segmentation/blob/main/README.assets/roizSelection.jpg)
