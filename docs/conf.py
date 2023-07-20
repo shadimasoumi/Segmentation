@@ -31,9 +31,5 @@ epub_show_urls = 'footnote'
 
 import os
 # other statements
-extensions = ['sphinx.ext.autodoc', 'sphinxcontrib.matlab']
 this_dir = os.path.dirname(os.path.abspath(__file__))
-import sys
-sys.path.insert(0, os.path.abspath('../../sphinx-extensions/sphinxcontrib'))
-#matlab_src_dir = os.path.abspath(os.path.join(this_dir, '..'))
-#primary_domain = 'mat'
+primary_domain = 'mat'
