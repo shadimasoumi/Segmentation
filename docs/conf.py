@@ -33,6 +33,5 @@ epub_show_urls = 'footnote'
 
 import os
 # other statements
-this_dir = os.path.dirname(os.path.abspath('Matlab'))
-matlab_src_dir = os.path.abspath(os.path.join(this_dir, '..'))
+matlab_src_dir = os.path.dirname(os.path.abspath(__file__))
 primary_domain = 'mat'
