@@ -13,7 +13,7 @@ version = '0.1.0'
 import os
 import sys
 sys.path.append(os.path.abspath('sphinxext'))
-extensions = ['sphinx.ext.autodoc','sphinxcontrib.matlab']
+extensions = ['sphinx.ext.autodoc','sphinxcontrib.matlab','sphinx.ext.napoleon']
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
