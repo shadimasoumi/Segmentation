@@ -11,6 +11,7 @@ version = '0.1.0'
 
 # -- General configuration
 import os
+import sys
 sys.path.append(os.path.abspath('sphinxext'))
 extensions = ['sphinx.ext.autodoc','sphinxcontrib.matlab']
 
