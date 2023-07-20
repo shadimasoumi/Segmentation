@@ -11,7 +11,7 @@ version = '0.1.0'
 
 # -- General configuration
 
-extensions = ['sphinxcontrib.matlab', 'sphinx.ext.autodoc']
+extensions = ['sphinx.ext.autodoc','sphinxcontrib.matlab']
 
 intersphinx_mapping = {
     'python': ('https://docs.python.org/3/', None),
