@@ -10,7 +10,8 @@ release = '0.1'
 version = '0.1.0'
 
 # -- General configuration
-
+import os
+sys.path.append(os.path.abspath('sphinxext'))
 extensions = ['sphinxcontrib.matlab', 'sphinx.ext.autodoc']
 
 intersphinx_mapping = {
