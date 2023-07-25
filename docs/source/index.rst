@@ -20,17 +20,17 @@ Contents
 
 
 
-source
+Test Data
 =========
-This is the source.
+This is the test data.
 
-.. automodule:: source
+.. automodule:: test_data
 
 
-times_two
+PSProcess
 ---------------
 
-This is the times_two definition.
+This is the PSProcess definition.
 
-.. autofunction:: times_two()
+.. autofunction:: PSProcess(S1,S2,procStruct)
 
