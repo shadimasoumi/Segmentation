@@ -1,10 +1,9 @@
 Usage
 =====
 
+.. _Toolbox: https://www.mathworks.com/products/bioinfo.html
 
-.. _MATLAB Bioinformatics Toolbox: https://www.mathworks.com/products/bioinfo.html
-
-To use the function, we need **MATLAB Bioinformatics Toolbox_**:
+To use the function, we need `MATLAB Bioinformatics Toolbox <Toolbox>`_:
 
 and also, ``mat2tiles`` function is needed
 
