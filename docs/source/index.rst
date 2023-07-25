@@ -20,6 +20,11 @@ Contents
 
 
 
+source
+=========
+This is the source.
+
+.. automodule:: source
 
 
 times_two
@@ -28,3 +33,4 @@ times_two
 This is the times_two definition.
 
 .. autofunction:: times_two()
+
