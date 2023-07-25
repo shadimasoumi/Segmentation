@@ -1,11 +1,6 @@
 Usage
 =====
 
-.. _installation:
-
-Requirements
-------------
-
 To use the function, we need **MATLAB Bioinformatics Toolbox**:
 
 and also, ``mat2tiles`` function is needed
