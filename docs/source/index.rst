@@ -19,18 +19,12 @@ Contents
 
 
 
-Test Data
-=========
-This is the test data module.
 
-.. automodule:: test_data
 
-:mod:`test_data` is a really cool module.
 
-My Handle Class
+times_two
 ---------------
-This is the handle class definition.
 
-.. autoclass:: MyHandleClass
-    :show-inheritance:
-    :members:
+This is the times_two definition.
+
+.. autofunction:: times_two()
