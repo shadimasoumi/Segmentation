@@ -26,11 +26,18 @@ This is the test data.
 
 .. automodule:: test_data
 
-
 PSProcess
 ---------------
 
 This is the PSProcess definition.
 
 .. autofunction:: PSProcess(S1,S2,procStruct)
+
+
+times_two
+---------------
+
+This is the times_two definition.
+
+.. autofunction:: times_two()
 
