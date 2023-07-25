@@ -1,7 +1,10 @@
 Usage
 =====
 
-To use the function, we need **MATLAB Bioinformatics Toolbox**:
+
+.. _MATLAB Bioinformatics Toolbox: https://www.mathworks.com/products/bioinfo.html
+
+To use the function, we need **MATLAB Bioinformatics Toolbox_**:
 
 and also, ``mat2tiles`` function is needed
 
