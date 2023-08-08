@@ -5,7 +5,7 @@ Usage
 
 To use the function, we need `MATLAB Bioinformatics Toolbox`_:
 
-and also, :docs:`mat2tiles` is needed
+and also, :func:`mat2tiles` is needed
 
 The ``Int`` is an image ``"innerSheath", "outerSheath" and "lens"``, should be defined, otherwise, :py:func:`segmentation`
 will raise an error.
