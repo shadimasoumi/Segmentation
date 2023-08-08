@@ -1,9 +1,10 @@
-Welcome to segmentation's documentation!
+CatheterSegmentation
 ===================================
 
-**Segmentation**  is a MATLAB function that segments layered structures using "Graph Theory"
+There are MATLAB functions here in **CatheterSegmentation** that segment layered structures (catheter sheath inner and outer interfaces of polarization-based NvisionVLE® Imaging System here). "Graph Theory" is the basis of these functions.
 
-Check out the :doc:`usage` section for further information and :doc:`graphTheory`.
+
+Check out the :doc:`usage` section, :doc:`graphTheory` and :doc:`functions` for more explanation.
 
 .. note::
 
