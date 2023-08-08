@@ -4,6 +4,7 @@ Usage
 .. _`MATLAB Bioinformatics Toolbox`: https://www.mathworks.com/products/bioinfo.html
 
 To use the function, we need `MATLAB Bioinformatics Toolbox`_:  and :func:`mat2tiles`.
+
 The ``Int`` is an image ``"innerSheath", "outerSheath" and "lens"``, should be defined, otherwise, :py:func:`segmentation`
 will raise an error.
 
